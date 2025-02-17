@@ -1,0 +1,5 @@
+[submodule "Vulkan-Headers"]
+	path = Vulkan-Headers
+	url = https://github.com/spencer-lunarg/Vulkan-Headers.git
+	branch = spencer-lunarg-vulkan-object
+	shallow = true
