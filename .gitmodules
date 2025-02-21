@@ -1,4 +1,4 @@
 [submodule "Vulkan-Headers"]
 	path = Vulkan-Headers
-	url = https://github.com/spencer-lunarg/Vulkan-Headers.git
-	branch = spencer-lunarg-vulkan-object
+	url = https://github.com/KhronosGroup/Vulkan-Headers
+	branch = main

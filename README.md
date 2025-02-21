@@ -1,8 +1,8 @@
 # Vulkan-Code-Gen-Example
 
-Show how to use Vulkan Object inside the Vulkan Headers
+Show how to use Vulkan Object inside the Vulkan Headers (as of 1.4.309)
 
-- Files [vulkan_object.py](https://github.com/spencer-lunarg/Vulkan-Headers/blob/spencer-lunarg-vulkan-object/registry/vulkan_object.py) and [base_generator.py](https://github.com/spencer-lunarg/Vulkan-Headers/blob/spencer-lunarg-vulkan-object/registry/base_generator.py)
+- Files [vulkan_object.py](https://github.com/KhronosGroup/Vulkan-Headers/blob/main/registry/vulkan_object.py) and [base_generator.py](https://github.com/KhronosGroup/Vulkan-Headers/blob/main/registry/base_generator.py)
 - [Background info](./Vulkan_Code_Gen.pdf)
 
 > Note - Python 3.10+ required
